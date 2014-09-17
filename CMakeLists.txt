@@ -1,5 +1,3 @@
-set(CMAKE_PREFIX_PATH "/home/fm/dev/opencv2/build")
-
 set( CMAKE_CXX_FLAGS "-Wall -Wconversion")
 project(adaptive_window)
 cmake_minimum_required(VERSION 2.8)
